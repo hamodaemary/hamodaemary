@@ -5,7 +5,6 @@
 <a href="https://www.facebook.com/profile.php?id=100089783388424&mibextid=ZbWKwL  " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i love playing minecraft
-- 😉 relationship : single 😉
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpTy1cX-KbK1MXqe6FoY3JiTFLAVnEw0lSw&usqp=CAU">
 
