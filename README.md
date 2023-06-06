@@ -7,6 +7,7 @@
 - ⚡ Fun fact: i love playing minecraft
 - 😉 relationship : single 😆
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW  ">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamodaemary)](https://git.io/streak-stats)
 
 
