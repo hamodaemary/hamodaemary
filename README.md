@@ -5,7 +5,9 @@
 <a href="https://www.facebook.com/profile.php?id=100089783388424&mibextid=ZbWKwL  " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i love playing minecraft
-- 😉 relationship : single 😆
+- 😉 relationship : single 😉
+
+
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW  ">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamodaemary)](https://git.io/streak-stats)
