@@ -11,7 +11,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamodaemary)](https://git.io/streak-stats)
 
-<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desktop+app+developer;Pythonist" alt="Typing SVG" /></a>
 
