@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on some desktop applications
+- 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning python application development
 - 💬 Ask me about: what you  want
 - 📫 How to reach me: 
